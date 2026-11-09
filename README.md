@@ -2,7 +2,7 @@
 
 ### Aspiring Data Engineer | Data Analyst
 
-I'm a Computer Science Engineering student interested in building data-driven systems, designing scalable data pipelines, and transforming raw data into meaningful business insights.
+I'm a Engineering student interested in building data-driven systems, designing scalable data pipelines, and transforming raw data into meaningful business insights.
 
 My interests span **Data Engineering, Data Analytics, Business Intelligence, and Python-based development**. I enjoy learning by building practical projects that combine data processing, databases, automation, and visualization.
 
